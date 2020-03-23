@@ -9,7 +9,7 @@ import {
 
 export default function App() {
   const [people, setPeople] = useState([
-    { name: 'shaun', id: '1' },
+    { name: 'esteban', id: '1' },
     { name: 'yoshi', id: '2' },
     { name: 'mario', id: '3' },
     { name: 'luigi', id: '4' },
